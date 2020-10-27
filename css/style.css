@@ -239,6 +239,7 @@ html {
 }
 
 .article-entry .blog-img {
+    background-size: cover;
     height: 270px;
     display: block;
     position: relative;
